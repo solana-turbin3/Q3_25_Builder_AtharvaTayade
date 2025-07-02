@@ -4,3 +4,6 @@
 [submodule "day1_prereq/Turbin3_Typescript_prereq"]
 	path = day1_prereq/Turbin3_Typescript_prereq
 	url = https://github.com/0xsterat/Turbin3_Typescript_prereq.git
+[submodule "week1.1/SPL_token_mint.git"]
+	path = week1.1/SPL_token_mint.git
+	url = https://github.com/0xsterat/SPL_token_mint.git
