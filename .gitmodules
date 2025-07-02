@@ -1,3 +1,6 @@
 [submodule "day1_prereq/Turbin3_Rust_prereq"]
 	path = day1_prereq/Turbin3_Rust_prereq
 	url = https://github.com/0xsterat/Turbin3_Rust_prereq.git
+[submodule "day1_prereq/Turbin3_Typescript_prereq"]
+	path = day1_prereq/Turbin3_Typescript_prereq
+	url = https://github.com/0xsterat/Turbin3_Typescript_prereq.git
