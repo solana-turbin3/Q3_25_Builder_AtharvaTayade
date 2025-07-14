@@ -7,3 +7,6 @@
 [submodule "week1.1/SPL_token_mint.git"]
 	path = week1.1/SPL_token_mint.git
 	url = https://github.com/0xsterat/SPL_token_mint.git
+[submodule "week2/vault"]
+	path = week2/vault
+	url = https://github.com/0xsterat/vault.git
