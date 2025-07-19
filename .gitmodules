@@ -13,3 +13,6 @@
 [submodule "week2/escrow"]
 	path = week2/escrow
 	url = https://github.com/0xsterat/escrow.git
+[submodule "week2/amm"]
+	path = week2/amm
+	url = https://github.com/0xsterat/amm.git
