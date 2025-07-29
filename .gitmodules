@@ -16,3 +16,6 @@
 [submodule "week2/amm"]
 	path = week2/amm
 	url = https://github.com/0xsterat/amm.git
+[submodule "week3/week3/nft_staking"]
+	path = week3/week3/nft_staking
+	url = https://github.com/0xsterat/nft_staking.git
