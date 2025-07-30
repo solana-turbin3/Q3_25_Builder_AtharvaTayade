@@ -22,3 +22,6 @@
 [submodule "capstone/demoapp"]
 	path = capstone/demoapp
 	url = https://github.com/0xsterat/mwademo_app.git
+[submodule "week3/nft_marketplace"]
+	path = week3/nft_marketplace
+	url = https://github.com/0xsterat/nft_marketplace.git
