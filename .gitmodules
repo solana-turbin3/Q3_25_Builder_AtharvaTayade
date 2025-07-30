@@ -19,3 +19,6 @@
 [submodule "week3/week3/nft_staking"]
 	path = week3/week3/nft_staking
 	url = https://github.com/0xsterat/nft_staking.git
+[submodule "capstone/demoapp"]
+	path = capstone/demoapp
+	url = https://github.com/0xsterat/mwademo_app.git
